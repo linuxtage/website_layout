@@ -1,0 +1,6 @@
+
+* GLT Ikiwiki Templates and Layout
+
+copy to www server glt_ikiwiki_templates dir for .tmpl files.
+
+css files go in the respective gltXX folder.
